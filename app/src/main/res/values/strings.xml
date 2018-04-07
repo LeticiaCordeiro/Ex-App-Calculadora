@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="num2">Digite outro número</string>
+    <string name="mais">+</string>
+    <string name="menos">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="calcular">Calcular</string>
+    <string name="num1">Digite um número</string>
+</resources>
